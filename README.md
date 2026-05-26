@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prachigautam-6a131b388&color=6AD3F7&style=for-the-badge&label=VISITORS" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=prachiparig7475&color=6AD3F7&style=for-the-badge&label=VISITORS" />&nbsp;
   <a href="https://www.linkedin.com/in/prachigautam-6a131b388"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>&nbsp;
 </div>
 
@@ -124,16 +124,16 @@ Artificial Intelligence & Programming Assistant (AIPA)
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachigautam-6a131b388&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&icon_color=6AD3F7&text_color=a9b1d6&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=prachigautam-6a131b388&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6AD3F7&ring=6AD3F7&fire=FF6D00&currStreakLabel=6AD3F7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachiparig7475&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&icon_color=6AD3F7&text_color=a9b1d6&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=prachiparig7475&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6AD3F7&ring=6AD3F7&fire=FF6D00&currStreakLabel=6AD3F7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=ffffff"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachigautam-6a131b388&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&text_color=a9b1d6"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachiparig7475&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&text_color=a9b1d6"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachigautam-6a131b388&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&area_color=6AD3F7" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachiparig7475&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&area_color=6AD3F7" width="95%"/>
 
 </div>
 
@@ -147,9 +147,9 @@ Artificial Intelligence & Programming Assistant (AIPA)
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prachigautam-6a131b388/prachigautam-6a131b388/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prachigautam-6a131b388/prachigautam-6a131b388/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prachigautam-6a131b388/prachigautam-6a131b388/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prachiparig7475/prachiparig7475/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prachiparig7475/prachiparig7475/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prachiparig7475/prachiparig7475/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -229,7 +229,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: prachigautam-6a131b388
+          github_user_name: prachiparig7475
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
