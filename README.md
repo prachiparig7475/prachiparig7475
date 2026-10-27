@@ -97,26 +97,35 @@ location : Basti, Uttar Pradesh, India 🇮🇳
 
 <table width="100%">
 <tr>
-<td width="50%">
-<h4>🏫 NSTI Kanpur</h4>
-<p><code>September 2025 – September 2026</code></p>
-Artificial Intelligence & Programming Assistant (AIPA)
-<br/>Focus: Data Analysis & Computer Applications
+<td width="50%" valign="top">
+<h4>🎓 Siddharth University, Siddharth Nagar</h4>
+<p><code>July 2026 – Expected July 2029</code></p>
+Bachelor of Computer Applications (BCA)
+<br/>Focus: Computer Applications & Data Analytics
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-Currently%20Pursuing-6AD3F7?style=flat-square"/>
 </td>
-<td width="50%">
-<h4>🏫 MAA GAYATRI INTER COLLAGE</h4>
-<p><code>July 2023 – April 2025</code></p>
-12th Grade
-<br/>Stream: Zoology / Biology
+<td width="50%" valign="top">
+<h4>🏫 NSTI Kanpur</h4>
+<p><code>September 2025 – September 2026</code></p>
+Artificial Intelligence & Programming Assistant (AIPA)
+<br/>Focus: Python, SQL, Data Analysis & AI/ML
 <br/><br/>
-<img src="https://img.shields.io/badge/Status-Completed-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=flat-square"/>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🏫 MAA GAYATRI INTER COLLEGE</h4>
+<p><code>July 2023 – April 2025</code></p>
+12th Grade
+<br/>Stream: Biology
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=flat-square"/>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
-
-<br/>
 
 ---
 
