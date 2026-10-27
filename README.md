@@ -32,10 +32,10 @@ location : Basti, Uttar Pradesh, India 🇮🇳
 
 - 🎓 &nbsp;Currently pursuing BCA at Siddharth University, Siddharth Nagar (2026–2029).
 - 🤖 &nbsp;Completed the Artificial Intelligence & Programming Assistant (AIPA) course at NSTI Kanpur (2025–2026).
-- 📊 &nbsp;Passionate about **Data Analysis & finding insights from data**
-- 💬 &nbsp;Ask me about **Python, SQL, Power BI, NLP, Computer Vision**
-- 🌱 &nbsp;Eager to gain **hands-on experience in data-driven projects**
-- ⚡ &nbsp;Fun fact: *I turn raw data into meaningful decisions*
+- 📊 &nbsp;Passionate about Data Analysis & finding insights from data
+- 💬 &nbsp;Ask me about Python, SQL, Power BI, NLP, Computer Vision
+- 🌱 &nbsp;Eager to gain hands-on experience in data-driven projects
+- ⚡ &nbsp;Fun fact: I turn raw data into meaningful decisions
 
 <br clear="right"/>
 
