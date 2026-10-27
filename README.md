@@ -23,13 +23,15 @@
 
 ```yaml
 name     : Prachi Gautam
-role     : Data Science & AI Enthusiast
-course   : AIPA at NSTI Kanpur
+role     : AI & Data Analytics Enthusiast
+current_degree   : BCA at Siddharth University, Siddharth Nagar
+completed_course : Artificial Intelligence & Programming Assistant (AIPA)
+training_institute: NSTI Kanpur
 location : Basti, Uttar Pradesh, India 🇮🇳
 ```
 
-- 🔭 &nbsp;Currently pursuing **Artificial Intelligence & Programming Assistant** at NSTI Kanpur
-- 🤖 &nbsp;Exploring **GenAI, Machine Learning & Deep Learning**
+- 🎓 &nbsp;Currently pursuing BCA at Siddharth University, Siddharth Nagar (2026–2029).
+- 🤖 &nbsp;Completed the Artificial Intelligence & Programming Assistant (AIPA) course at NSTI Kanpur (2025–2026).
 - 📊 &nbsp;Passionate about **Data Analysis & finding insights from data**
 - 💬 &nbsp;Ask me about **Python, SQL, Power BI, NLP, Computer Vision**
 - 🌱 &nbsp;Eager to gain **hands-on experience in data-driven projects**
