@@ -41,6 +41,65 @@ location : Basti, Uttar Pradesh, India 🇮🇳
 
 ---
 
+## 🚀 &nbsp;Featured Projects
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>♻️ CIRCVIS</h3>
+
+**Context-Aware Waste Classification for Circular Cities**
+
+An AI-powered waste classification project that identifies different waste categories using computer vision and deep learning.
+
+**Tech Stack:** Python, TensorFlow, Keras, OpenCV, NumPy
+
+🔗 [View Project](YOUR_CIRCVIS_REPOSITORY_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 HR Attrition Analysis</h3>
+
+An interactive Power BI dashboard to analyze employee attrition patterns and explore workforce trends using HR data.
+
+**Tech Stack:** Power BI, Data Analysis, IBM HR Dataset
+
+🔗 [View Project](YOUR_HR_ATTRITION_REPOSITORY_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏦 Bank Loan Approval Analysis</h3>
+
+A data analysis project exploring loan application data and patterns related to loan approval.
+
+**Tech Stack:** Python, Pandas, Seaborn, Machine Learning
+
+🔗 [View Project](YOUR_BANK_LOAN_REPOSITORY_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>😷 Face Mask Detection</h3>
+
+A computer vision project designed to detect whether a person is wearing a face mask using an image-based deep learning model.
+
+**Tech Stack:** Python, TensorFlow, Keras, OpenCV
+
+🔗 [View Project](YOUR_FACE_MASK_REPOSITORY_LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -168,24 +227,48 @@ Artificial Intelligence & Programming Assistant (AIPA)
 
 ---
 
-## 🏅 &nbsp;Certifications
+## 🏆 &nbsp;Certificates & Achievements
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LinkedIn-Programming%20Foundations%3A%20Beyond%20the%20Fundamentals-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Software%20Development-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<h3>🎓 Artificial Intelligence & Programming Assistant (AIPA)</h3>
 
-<br/><br/>
+**Institute:** NSTI Kanpur  
+**Duration:** One Year (2025–2026)  
+**Status:** Completed
 
-<img src="https://img.shields.io/badge/LinkedIn-The%20Cybersecurity%20Threat%20Landscape-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-Cybersecurity%20Awareness%20%26%20Terminology-EA4335?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-Security%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+One-year vocational training covering Python, SQL, Data Analysis, Power BI, Excel, and AI/ML fundamentals.
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<br/>
+<h3>💻 Microsoft Certificate</h3>
+
+**Organization:** Microsoft
+
+Completed Microsoft-related learning and developed technical knowledge.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏅 Deloitte Certificate</h3>
+
+**Organization:** Deloitte
+
+Professional learning certificate demonstrating participation in a learning program.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
