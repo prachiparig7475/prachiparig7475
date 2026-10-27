@@ -220,38 +220,54 @@ Artificial Intelligence & Programming Assistant (AIPA)
 ---
 
 <details>
-<summary>🐍 <b>Activate Snake Animation (2-min setup)</b></summary>
+<summary>🐍 <b>Activate Premium Neon Snake Animation</b></summary>
 
 <br/>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+### ✨ Features
+- 💎 Neon cyan snake for light mode
+- 🌌 Neon purple snake for dark mode
+- 🔄 Automatic daily updates
+- ⚡ GitHub Actions integration
+
+### 🛠️ Setup Instructions
+
+Create `.github/workflows/snake.yml` in your profile repository:
 
 ```yaml
-name: Generate Snake
+name: Generate Premium Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Neon Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: prachiparig7475
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+            dist/github-snake.svg?color_snake=%2300E5FF&color_dots=%230D1117,%23111D3A,%230078FF,%2300CFFF,%23B4F8FF
+            dist/github-snake-dark.svg?color_snake=%23B388FF&color_dots=%230D1117,%231D1235,%235B2EFF,%239B5CFF,%23E5C9FF
+
+      - name: Publish Snake Files
+        uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ```
 
-Then go to **Settings → Actions → General → Read & Write permissions** → Run workflow once manually ✅
+### 🚀 Display Snake on Your Profile
 
-</details>                                                                                                                       
+After the workflow runs successfully, add this where you want the animation to appear in `README.md`:
+                                                                                                                    
